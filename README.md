@@ -10,12 +10,12 @@
 <details><summary>Read MIT License</summary>
 <p>
 <br>
-<a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
+<a href="https://github.com/Dhanushfan/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
 </a>
 </p>
 </details>
 
-Licensed under [MIT License](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
+Licensed under [MIT License](https://github.com/Dhanushfan/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ----
@@ -70,7 +70,7 @@ Do Fork And Star The Repository If You Liked It.
 ----
 
 ### Subscribe
-<a href="https://youtube.com/c/MoTech_YT"> <img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/MoTcch-YouTube-Channel.png"/> </a>
+<a href="https://youtube.com/c/MoTech_YT"> <img src="/https://github.com/Dhanushfan/LuciferMoringstar-Robotblob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/MoTcch-YouTube-Channel.png"/> </a>
 
 ----
 
